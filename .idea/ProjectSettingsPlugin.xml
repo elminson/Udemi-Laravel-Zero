@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="org.refersion.ProjectSettingsState">
+    <option name="functionName" value="rfsndev-amazon-data-process" />
+    <option name="repoName" value="Lambdas" />
+    <option name="testType" value="SQSMessage" />
+    <option name="queueName" value="RFSNDEV-Amazon-Data-Process.fifo" />
+    <option name="queuePrefix" value="RFSNDEV" />
+  </component>
+</project>
